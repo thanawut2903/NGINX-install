@@ -1,5 +1,7 @@
 # NGINX-install
 
+NGINX เป็น Web Server ยอดนิยม โดยผู้ใช้งานแต่เดิมจะมีอยู่สองกลุ่ม กลุ่มแรกใช้ NGINX เป็น Web Server กลุ่มที่สองใช้งานเหมือนอุปกรณ์ไว้สำหรับ ‘ทดสอบ’ สิ่งต่าง ๆ ตามต้องการ
+
 1.Install NGINX in Ubuntu
 
 sudo apt install nginx
